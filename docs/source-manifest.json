@@ -1,0 +1,701 @@
+{
+  "snapshot_date": "2026-11-03",
+  "description": "Original project files, copied byte-for-byte without generated Godot cache or repeated release archives.",
+  "files": [
+    {
+      "path": "outputs/chuzzle-cats-godot/.gitignore",
+      "bytes": 17,
+      "sha256": "66d42709a13235fc291ef6045cb42ec83fb553f0a346df8d78922374bae44f7d"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/calico-v1.png",
+      "bytes": 2056217,
+      "sha256": "7afaf644aea8dbfeb7a01052cd22ceced677f00af033950c4779d5b95a0881d9"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/calico-v1.png.import",
+      "bytes": 942,
+      "sha256": "f3642c96cf3381d200d8c011bedf98ad205bf1397755a28d2f58bb4c7b386861"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/calico-v2.png",
+      "bytes": 1906174,
+      "sha256": "77d1c04c8b4ac27b938eba05c6c0805c281f64e0331528fa5a177ef3963bb827"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/calico-v2.png.import",
+      "bytes": 942,
+      "sha256": "93cc80d133843c31869d52dba2ddad868697e15b4b7b694c756fd73725ebb8c9"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/cow-v1.png",
+      "bytes": 1994379,
+      "sha256": "463f4e0cd0ac55af27d490826722a309117b30375651c123ba9d05232f3bf578"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/cow-v1.png.import",
+      "bytes": 932,
+      "sha256": "7f498bdbcc0103c6996ff30ead79fdc19e277d28298ccb5b76cabdc943fca7d0"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/cow-v2.png",
+      "bytes": 1952479,
+      "sha256": "200903dc86c3d4e28e65de9cae99713cf617af405637d21f884bbf2a308eb2e1"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/cow-v2.png.import",
+      "bytes": 933,
+      "sha256": "580187aeeb8d6e3a9e1ee60eeda79ab5629b8250b0966431aa777aaaa767e597"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/bengal.png",
+      "bytes": 2271372,
+      "sha256": "ef711b3b8cec68176ee929af0d331cf4e592b3bec5c151ca58368cfb1039d247"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/bengal.png.import",
+      "bytes": 944,
+      "sha256": "35f2e55377afdff4c76df6b1c8d1c2db83667956a519fdd7340716877ee72345"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/black.png",
+      "bytes": 1935037,
+      "sha256": "674d37f785f1d506e7eb177570bc56067288c68b7d7ba1e3347183a878bcfb71"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/black.png.import",
+      "bytes": 942,
+      "sha256": "a2a87ce6955add53f7c6e31b8f5df4fe73f34756aa6c717ef15fda37eec08059"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/blue.png",
+      "bytes": 2239560,
+      "sha256": "1f86ed50390520e73061802b11005cb0973873f9b74a1a443b8c7dc43f3bf14b"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/blue.png.import",
+      "bytes": 940,
+      "sha256": "76ac5ad15dbfac4ca7923340866450b08c22a4cbd50102ca543def4ce12a7d04"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/calico.png",
+      "bytes": 2056217,
+      "sha256": "7afaf644aea8dbfeb7a01052cd22ceced677f00af033950c4779d5b95a0881d9"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/calico.png.import",
+      "bytes": 946,
+      "sha256": "8042d9cfe8b995f3d7cac296efba5a47121c459010492a4671e0f0526d9ccfa8"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/cow.png",
+      "bytes": 1994379,
+      "sha256": "463f4e0cd0ac55af27d490826722a309117b30375651c123ba9d05232f3bf578"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/cow.png.import",
+      "bytes": 936,
+      "sha256": "6951d83e0ddb403e64b323182f131f5455d5f8caa69090fdb78ea7486bea86e0"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/siamese.png",
+      "bytes": 2060956,
+      "sha256": "5d919c74514f0fc6ffaedab8ebe39a1fa2e7821ed928a9f5d1cb66910a72b005"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/siamese.png.import",
+      "bytes": 949,
+      "sha256": "262770472d8557da621ec4a113539373632f3610dd3c0d59ba0365ba99bd6eff"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/tabby.png",
+      "bytes": 2000457,
+      "sha256": "e815f1822330496872523d99cec1a4afe69b9a7924afb1463fd927398eb588e4"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/tabby.png.import",
+      "bytes": 943,
+      "sha256": "727b4b322c49ca7c7a3d0e0769d72a70bae2c747ea036bdd72cdfb90029948bb"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/tortoiseshell.png",
+      "bytes": 2517555,
+      "sha256": "2f505d9f652518b8765391c58ebdb074f3d6caede837e4b1eb1214bf8675dc16"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/tortoiseshell.png.import",
+      "bytes": 964,
+      "sha256": "9e4a0ae6b6d4e3b18d39f2b13b29b942db1ce2626c47915a5a58d0eb78b9d15e"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/v5生成提示词.md",
+      "bytes": 1255,
+      "sha256": "1d9e82a1d5df40ae6d4de8e7f9bc654c9acacac8eb4d59a0a5bbf9e3512328be"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/white.png",
+      "bytes": 1754246,
+      "sha256": "4e63ded49142b3d2daebc75e095d14bf9fc469e7f3ed7071919a84060f2e3135"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/white.png.import",
+      "bytes": 943,
+      "sha256": "1b641567e24a3c4b2fc0c7034e957b3d3375fd1badb3f5364ee93407352d88ac"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/natural-v1/生成说明与提示词.md",
+      "bytes": 3917,
+      "sha256": "e60bb1c0e11740cc6939103d97b4b76a64e2b35dee3a18d40c4a99ed09d5b959"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/point-v1.png",
+      "bytes": 2060956,
+      "sha256": "5d919c74514f0fc6ffaedab8ebe39a1fa2e7821ed928a9f5d1cb66910a72b005"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/point-v1.png.import",
+      "bytes": 939,
+      "sha256": "008e0f49352c09e912a4562b4498a85f4b7cd5bc4c20ebe6c112a6df0ea5887b"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/point-v2.png",
+      "bytes": 2021668,
+      "sha256": "1cfb80b9839a57e3e3bcfda6dfb1f05530b0b8b5fb865616975f302965a87f34"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/point-v2.png.import",
+      "bytes": 939,
+      "sha256": "ac40ec1d5e93c3ed379f530382f3f8ee6116ff024814dc105c2c0ad515ce5273"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/spotted-v1.png",
+      "bytes": 2188252,
+      "sha256": "d7cbb2e9b2c7170506ff6f4378621e5ee60d5b1cc60576a2d1b567e2b43e42d9"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/spotted-v1.png.import",
+      "bytes": 945,
+      "sha256": "d98dbeaf9ebbb19b902a416bf7936831ad2986b0d47e86a3e74a85f432747ba1"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/spotted-v2.png",
+      "bytes": 1952218,
+      "sha256": "a4b43a26525dcaadb09201d2ef476b5345e2dae9c676ed0dee322dff865bacd2"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/spotted-v2.png.import",
+      "bytes": 945,
+      "sha256": "5395d60ca3284d30e8c4d34af677d463a7879a0bf4834c4ddf75ce25bdb4f240"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/tabby-v1.png",
+      "bytes": 2000457,
+      "sha256": "e815f1822330496872523d99cec1a4afe69b9a7924afb1463fd927398eb588e4"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/tabby-v1.png.import",
+      "bytes": 939,
+      "sha256": "4ee079dcaa9ef7872fb9c68329089277c8ddd564e6b46def08a62684a491b043"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/tabby-v2.png",
+      "bytes": 2000457,
+      "sha256": "e815f1822330496872523d99cec1a4afe69b9a7924afb1463fd927398eb588e4"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/tabby-v2.png.import",
+      "bytes": 938,
+      "sha256": "ace199c84f1f6d564d980b7ee8cef14cf12dab035589c5490e9d92ff4cd2af60"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/tuxedo-v1.png",
+      "bytes": 2151594,
+      "sha256": "07bc1d7f11e9fd544fda9094aec47ac127c692dcb9814e313a6561b46fae039f"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/tuxedo-v1.png.import",
+      "bytes": 942,
+      "sha256": "4ed51bab0671c84ecdfca552905dd1efb5e2f424fd210c2bf70b18c7319140f2"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/tuxedo-v2.png",
+      "bytes": 2027936,
+      "sha256": "37ace85fac68c370890ef25ca042c19da0af64d881c590f7c7948e9e1dc51000"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/tuxedo-v2.png.import",
+      "bytes": 942,
+      "sha256": "085a214e3ef26be829095f2da55e3f802cc93d7b9c5650fb6bebac0d82318a35"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/cats/生成说明与提示词.md",
+      "bytes": 9111,
+      "sha256": "4f37118c72e146a5985928fa6efd5531241e7c889343078e86e3594a51cc1827"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/ui/kitchen/kibble.png",
+      "bytes": 1061938,
+      "sha256": "79c7571651ada03c3fc69c37f813003fdd95fc27246644c9a1a5c7de83c34ee6"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/ui/kitchen/kibble.png.import",
+      "bytes": 939,
+      "sha256": "ffc0d47f0d29873ad19ab17fe50726f05e93fbb8a1ca5169a106dbce4ddecb5c"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/ui/kitchen/kitchen-skin.png",
+      "bytes": 2066966,
+      "sha256": "c6d3a2b2720a3ab0e7842249423ca6f0399fde6e5a3a4ba2da749a0288046b3c"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/ui/kitchen/kitchen-skin.png.import",
+      "bytes": 957,
+      "sha256": "50954e0871bf7dc608b2780c6bd5a70f5fc20d46e95a0b3f7ce3772bec3b36cb"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/assets/ui/kitchen/生成提示词.md",
+      "bytes": 2337,
+      "sha256": "3cf5867224acf3148d18dcc872fb7cc71ead34b32f87c9bd99b35765438a341a"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/design-qa.md",
+      "bytes": 1909,
+      "sha256": "75c96d046f811dfba85f72c81320fc543c072c500523751ac666d4567a432586"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/levels/level_01.tres",
+      "bytes": 262,
+      "sha256": "e8fa5e0c086bd7493b259bcd6aeaec315719952b384e296f35c60f9ef7835157"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/levels/level_02.tres",
+      "bytes": 323,
+      "sha256": "88701ff633ac75f525c3afef816bcf8c8ed2a0bf665cb41185b9846f79814dce"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/levels/level_03.tres",
+      "bytes": 341,
+      "sha256": "b3d754b41d2e2f8404057c026aec5560dbe17b578525ca07562aa182ddbda3be"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/project.godot",
+      "bytes": 773,
+      "sha256": "38402a7045a1607c95e120bf692a5e6fc3ae8a4a3420acc9dab2de1b9dacff6f"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/README.md",
+      "bytes": 8720,
+      "sha256": "f9d82374676c2458d7d93af874c786d05bd3434809377ad5400504f800d6183c"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scenes/main.tscn",
+      "bytes": 350,
+      "sha256": "93bed1a56ae1c2cb69e2ce49e2c338115101465741fbab4674f6b328a9ec7b79"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/board_view.gd",
+      "bytes": 17898,
+      "sha256": "d9fdf9be28e8fce76cabc7b78072aa610cbfa6eecaaa232d294fdb3589fd838a"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/board_view.gd.uid",
+      "bytes": 19,
+      "sha256": "735d6cba18711f94fea6225bb67b449f1a50aba8941bbea654532854459b5d1f"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/cat_level.gd",
+      "bytes": 551,
+      "sha256": "ec385443465b57de76a36cb7d4c36411e5f531fcfd172d374533eb290d7f5a25"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/cat_level.gd.uid",
+      "bytes": 20,
+      "sha256": "5424806fd53105281871ffca437b89a5dae71d6eafb3083a710bd0eed936ed40"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/cat_rules.gd",
+      "bytes": 3552,
+      "sha256": "0b5b42a04cb9fae13736fcd4c07980e9f2f279c5034cea7fe393b11b164e5ba6"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/cat_rules.gd.uid",
+      "bytes": 20,
+      "sha256": "563905e3e0df3a42aff8a3fcada1f264080921c30e4c7f0300ebf3a849002a52"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/food_station.gd",
+      "bytes": 4209,
+      "sha256": "b85c46b93793401140057e006d5f94e105963a334dee6f096896bcca64066886"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/food_station.gd.uid",
+      "bytes": 20,
+      "sha256": "c3d5f7cb8b3672ea9808c0503f9a41c3d7179fb0457a9e58e1d5654ef0d9612a"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/game_hud.gd",
+      "bytes": 9174,
+      "sha256": "b4c63c4a568c2868944d17a15d9a309d06aa96e96c5017d2f38347d0e69f8b7a"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/game_hud.gd.uid",
+      "bytes": 19,
+      "sha256": "b2fcc1000881832b3bd66cd90e5dc47106c4fb265d162c61c2155abe15cabd91"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/main.gd",
+      "bytes": 6791,
+      "sha256": "580c92ccb4dc694541725eabe4f19d7c107c40c289f0f3b71458fdb6e639813d"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/scripts/main.gd.uid",
+      "bytes": 20,
+      "sha256": "348b3868a954cad9017d4101af869f67517f5ac62e99f3048c80bfd873e2572a"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_dinner.gd",
+      "bytes": 1456,
+      "sha256": "39b3fc20b8bebd476334c382c75e7de8127a8bde9fa10134827e53c3b8260d09"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_dinner.gd.uid",
+      "bytes": 20,
+      "sha256": "a68c0cd1be6a832de0a7795851da7cf3ac7b61b8ec4b59937453ff713685f180"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_dinner_movie.gd",
+      "bytes": 1141,
+      "sha256": "b5a227749d84c71fd4892d601863343cdb06747b326f24474d9c663a2ce525b1"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_dinner_movie.gd.uid",
+      "bytes": 20,
+      "sha256": "e49b4c630e84b7b5e77672c0bf5b3b8067cb00d57de075c980946caa21582e5d"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_drag.gd",
+      "bytes": 2352,
+      "sha256": "25e41edfe043ce1d6554da710db9334cfbf14b9a4120dbbba3b2347524588db4"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_drag.gd.uid",
+      "bytes": 20,
+      "sha256": "39280a9de5f14d390bc880861bfc172512243ea3d93081174b64216c3dedc45d"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_kitchen.gd",
+      "bytes": 1330,
+      "sha256": "1c9c2d8f40b82e280dd740b5d5227241ef47c94065d675c6f0fc689e6e405c4c"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_kitchen.gd.uid",
+      "bytes": 19,
+      "sha256": "feea8205223c9e5bf5c3246929f466b9abfdde13bdba8bcfb0d369411ebc32de"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_refill.gd",
+      "bytes": 1333,
+      "sha256": "9183812033a12c1b095d91ec91362bd65833b2e5b0e6988f2bf040430a11422a"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_refill.gd.uid",
+      "bytes": 19,
+      "sha256": "6c99ae046943ca60433d6d2f02e997f51fddb885e8fa4fc4401d20b858f9f6be"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_ui.gd",
+      "bytes": 1333,
+      "sha256": "30d8cad0d3ec49539c0e8639a2772be33f2b108db002c64106a1b5cdbb08ee92"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_ui.gd.uid",
+      "bytes": 20,
+      "sha256": "c9954413aadc77738a7da3ae8ec4146f905325308ad2575211af44c09acc1460"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_visuals.gd",
+      "bytes": 834,
+      "sha256": "453238f62343d676577cf9b7fe304a2d305c0d8550b39f1c94c470e85db42c30"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/capture_visuals.gd.uid",
+      "bytes": 20,
+      "sha256": "e7eedece5f837dda35ccf0a66aaace504eaf5f2f6231237e13465cf565e76ed5"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/cat_showcase.gd",
+      "bytes": 1210,
+      "sha256": "bef75a53d73ee58b34f1c904af74311fa7bd9a02e3bfb0ace5245baa8c512fd4"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/cat_showcase.gd.uid",
+      "bytes": 20,
+      "sha256": "306665a12ccd3d3e137a83d11290c346ad77da64cde94eb0c30e30f5eb1f62bb"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/compare_kitchen.gd",
+      "bytes": 1049,
+      "sha256": "6f520a19d2f1111755b994dd18de0ca4bf5459ce90e44a5cbf981ab0ca9a6909"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/compare_kitchen.gd.uid",
+      "bytes": 20,
+      "sha256": "d64667b65fb084829372a38325518a2575f65dc98219585a60e8d1e670c2aa1f"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_coat_colors.gd",
+      "bytes": 1213,
+      "sha256": "643c3fb1362f3d0e848be39db77b808b44c60eee0f0c9152bfbd23fcb7a26ac7"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_coat_colors.gd.uid",
+      "bytes": 19,
+      "sha256": "7be26dbbbece48b3e56db716269c04a6e82562417e9f329caac56660d2427142"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_dinner.gd",
+      "bytes": 4820,
+      "sha256": "ee0c88863de0c80f0f5167711f95a7609991c26bc1dd89cfb1e953f179204649"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_dinner.gd.uid",
+      "bytes": 20,
+      "sha256": "9c3aa7784a898b16eba73c9005ed767271da58b6d09185a201567c5b7ea60025"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_drag.gd",
+      "bytes": 4260,
+      "sha256": "97a5ac2b1259f33e3dd78d3ef8dca017499312a3f00dcf3da9fff4befac8f336"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_drag.gd.uid",
+      "bytes": 20,
+      "sha256": "b2e2137a7be76a5ec93d02f459e464ca74a6f5c26cf905f695d3ffa6bda03f49"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_gaze.gd",
+      "bytes": 1297,
+      "sha256": "de79a1912d341f2da5da8dc9c4d16c70f8e29a854fd13462c4b0b0aa3b0ff47d"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_gaze.gd.uid",
+      "bytes": 19,
+      "sha256": "970b5ba0afbfced9cb70629a5dd4009f5efbc887b87465db3c7fe8d6c568f288"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_hud.gd",
+      "bytes": 3072,
+      "sha256": "b4a149783dc74e39a436e2f019a0eeae2068fd495c8d58bb9990b81ce4da6857"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_hud.gd.uid",
+      "bytes": 20,
+      "sha256": "8a209181f21f50e8b77c9b3e75f6acfe65fefcec68d507bd78dd340bff3d128d"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_refill.gd",
+      "bytes": 3127,
+      "sha256": "76f159a448331c9e72e19a731b3a702b137d4291d539ab32b26eb25af90a6fe0"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_refill.gd.uid",
+      "bytes": 18,
+      "sha256": "ab6e10f8bd98498a45798ae75baa0558ed509dc4aea49f99e4a58e5b350cef0f"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_rules.gd",
+      "bytes": 3496,
+      "sha256": "80c77e7220df34e4e12501906fc7a38b5eee59adfa21b6cb220bee51afe33983"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/test_rules.gd.uid",
+      "bytes": 20,
+      "sha256": "049a6a2219c02e388259058d42a40ce6d975838c985f0de31d93822cccb4ba5b"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/verify_cat_art.gd",
+      "bytes": 2961,
+      "sha256": "407ee61bdc245aebe714450ce998493aa357077d1bcd452cd698e37d1824c925"
+    },
+    {
+      "path": "outputs/chuzzle-cats-godot/tests/verify_cat_art.gd.uid",
+      "bytes": 19,
+      "sha256": "ab5226025b37e5db9aaf6cf3e2f7e1a519a779f6508f8bc7d68561756f1e475e"
+    },
+    {
+      "path": "outputs/plush-cat-study/animations/meal.tres",
+      "bytes": 382,
+      "sha256": "462ede53775a1e1c98b96381a9a61841659f5a243122669fe61302a5bb6b9be7"
+    },
+    {
+      "path": "outputs/plush-cat-study/assets/body.png",
+      "bytes": 1547961,
+      "sha256": "f713911e761a6514390878910dba42194a0b49b2bb220b340d6002d75f6a3d12"
+    },
+    {
+      "path": "outputs/plush-cat-study/assets/body.png.import",
+      "bytes": 922,
+      "sha256": "21198d7703cb418da0f1a9f831cd3040b81a82123e8108409b60e30d1d4e9246"
+    },
+    {
+      "path": "outputs/plush-cat-study/assets/head_down.png",
+      "bytes": 2115081,
+      "sha256": "fb243e0c0cb48a0515ec62fc207d1008dd5b29bd93f36ba5f72f7efc2de88241"
+    },
+    {
+      "path": "outputs/plush-cat-study/assets/head_down.png.import",
+      "bytes": 937,
+      "sha256": "b134be9d4827e996e356f56fd3bb20b09ad27cb8235023006f8afd1f18637f87"
+    },
+    {
+      "path": "outputs/plush-cat-study/assets/head_front.png",
+      "bytes": 2000457,
+      "sha256": "e815f1822330496872523d99cec1a4afe69b9a7924afb1463fd927398eb588e4"
+    },
+    {
+      "path": "outputs/plush-cat-study/assets/head_front.png.import",
+      "bytes": 939,
+      "sha256": "d0c0553efb2eb7f7f850059ed2699dbebaf8de7801f7de8f1ebe06cd9acfff6d"
+    },
+    {
+      "path": "outputs/plush-cat-study/assets/tail.png",
+      "bytes": 1604643,
+      "sha256": "ea516580bd44cb92f032ef9df3c68c0a3834d8eed925c11b13a98f26fca92943"
+    },
+    {
+      "path": "outputs/plush-cat-study/assets/tail.png.import",
+      "bytes": 921,
+      "sha256": "677d4ab155102c7092d743881bdc1519f6f0c80e6fdcbdb7a658d8faf6e67808"
+    },
+    {
+      "path": "outputs/plush-cat-study/assets/生成提示词.md",
+      "bytes": 2301,
+      "sha256": "d873b7479b1b5bbe059a7e57a285403cd1c513e507f5a39d29c2b48dabf6bb49"
+    },
+    {
+      "path": "outputs/plush-cat-study/project.godot",
+      "bytes": 542,
+      "sha256": "103b192ba380eb3fcfa89b03da90d10c01d6cf6c3b2dc36a362f76b1cf73597c"
+    },
+    {
+      "path": "outputs/plush-cat-study/README.md",
+      "bytes": 2228,
+      "sha256": "f0e9deafb80257ad37bdd3c4647cf40d0f08563615b86da92940c95e20dad836"
+    },
+    {
+      "path": "outputs/plush-cat-study/scenes/study.tscn",
+      "bytes": 670,
+      "sha256": "cb8eefeff678f5a93eeceb60ec37c1772325ceedc72d70c66b29e937ef513bcf"
+    },
+    {
+      "path": "outputs/plush-cat-study/scripts/capture.gd",
+      "bytes": 898,
+      "sha256": "6c006714fb773db2f6b174acb76ffa7a5979f3952b8930d2a1951b7fa66469cd"
+    },
+    {
+      "path": "outputs/plush-cat-study/scripts/capture_movie.gd",
+      "bytes": 1626,
+      "sha256": "70a834c1a72f29dbd4cfbabe7d21f45ec3181dee90ea21dca9f7501e809348c1"
+    },
+    {
+      "path": "outputs/plush-cat-study/scripts/cat_rig.gd",
+      "bytes": 4971,
+      "sha256": "91bbe2dddc0f92347fefd23416d5ca6f1ad0ca9fbdbb49fc6881bcce8820d7a5"
+    },
+    {
+      "path": "outputs/plush-cat-study/scripts/cat_rig.gd.uid",
+      "bytes": 20,
+      "sha256": "c24ee8587380a1dee0b1ba8b9179b9bf53fadbadb65878ef55247da1da79b199"
+    },
+    {
+      "path": "outputs/plush-cat-study/scripts/face.gd",
+      "bytes": 1298,
+      "sha256": "60883f6453166f678d3cdac0cd7752f6a62973e6d1d62bc8a0bc8a1ee04c116a"
+    },
+    {
+      "path": "outputs/plush-cat-study/scripts/face.gd.uid",
+      "bytes": 20,
+      "sha256": "d1ec596b4504ea2f9512ae3719c539b7cda22a79f778d38b6c404b4b8f49f2a0"
+    },
+    {
+      "path": "outputs/plush-cat-study/scripts/study.gd",
+      "bytes": 4732,
+      "sha256": "13ca79b1abea4a74a53e2103bda4d7a533212ae2706b6bb6ee30c6f379c42bc1"
+    },
+    {
+      "path": "outputs/plush-cat-study/scripts/study.gd.uid",
+      "bytes": 20,
+      "sha256": "a1e1ff6a416b84f9abd37daa7454660aae67828be74e855c697464d07f386fbc"
+    },
+    {
+      "path": "outputs/index.html",
+      "bytes": 15856,
+      "sha256": "cedabc63344c79a19540c444b4acbd3ea4f639307ed4c29a9141482b10316b00"
+    },
+    {
+      "path": "outputs/关卡制作说明.md",
+      "bytes": 4993,
+      "sha256": "5920602ed4b53a9c6533c240eed5f638639dc7fb5579d30e59f4b2177bbb380f"
+    },
+    {
+      "path": "outputs/Chuzzle2关卡难度解析.md",
+      "bytes": 12193,
+      "sha256": "ea701fe514b85a793bbac2338572f077858d038b65db367f1560e2dbf0a0ffa0"
+    },
+    {
+      "path": "outputs/chuzzle2-rea-evidence.json",
+      "bytes": 291868,
+      "sha256": "98143e6a9ebcecf81ee6af3e04aa9156a7d937c660f3208d78646cb5f1b0a7d9"
+    },
+    {
+      "path": "outputs/猫咪晚饭难度抽样.json",
+      "bytes": 590,
+      "sha256": "4c24884535b66097fb19c6acebf8907b7e50dd5afe8ae3e16a63e62785afb87e"
+    },
+    {
+      "path": "outputs/UI风格探索/01-奶油猫咪厨房.png",
+      "bytes": 2559383,
+      "sha256": "09a207f8b835b62f6744bb62e5062439a71a1abc08f5b53b55150886b21d5077"
+    },
+    {
+      "path": "outputs/UI风格探索/02-月光猫咪小屋.png",
+      "bytes": 2800703,
+      "sha256": "e6d210c5f4dc6c130b0370444f3afba5714649eb432b505286699109a840bbce"
+    },
+    {
+      "path": "outputs/UI风格探索/03-毛毡玩具盒.png",
+      "bytes": 3401514,
+      "sha256": "7bb6f9798c136454168e3abe0e20c82237dc6454cb61665b278d39fd0e6257a7"
+    },
+    {
+      "path": "outputs/UI风格探索/生成提示词.md",
+      "bytes": 6911,
+      "sha256": "3889d10c032ab60858d12f26b719252eb850eb2a43f36d045de20c755e51913d"
+    },
+    {
+      "path": "outputs/奶油厨房实际UI.png",
+      "bytes": 886351,
+      "sha256": "dae648c24fa5decc796dcab5bc23e71b3c42b9d6fd014beeb304668f6a9ab943"
+    },
+    {
+      "path": "outputs/奶油厨房菜单.png",
+      "bytes": 342576,
+      "sha256": "1be639bb07629aae2d7a5344148edf9076ab556adfb828fa6d4c65421818b470"
+    },
+    {
+      "path": "outputs/奶油厨房吃饭弹层.png",
+      "bytes": 674421,
+      "sha256": "8ba0ae462dbbeede0afec67f3cb7b32c1204fe326f6bc917e8479963cf2c846c"
+    },
+    {
+      "path": "outputs/小猫补落过程.png",
+      "bytes": 299457,
+      "sha256": "ac0a743f4e63a2c656b85fffa2315e5919f3d33a225d074e71010545465009bb"
+    },
+    {
+      "path": "outputs/猫头拖动形变.png",
+      "bytes": 322471,
+      "sha256": "93322a271f571a2c7f6eb1201d1a0ef7cbf71433c5de77600babb47b9626fccb"
+    }
+  ]
+}

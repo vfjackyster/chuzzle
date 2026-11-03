@@ -1,0 +1,8 @@
+**/.godot/
+**/.DS_Store
+**/Thumbs.db
+**/*.log
+**/*.tmp
+work/
+outputs/*.zip
+outputs/*frames/

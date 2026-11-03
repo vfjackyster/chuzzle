@@ -1,0 +1,44 @@
+[
+	{
+		"level": 1,
+		"mean_food": 38.7,
+		"policy": "random_valid",
+		"samples": 40,
+		"wins": 40
+	},
+	{
+		"level": 1,
+		"mean_food": 40.35,
+		"policy": "greedy",
+		"samples": 40,
+		"wins": 40
+	},
+	{
+		"level": 2,
+		"mean_food": 38.825,
+		"policy": "random_valid",
+		"samples": 40,
+		"wins": 22
+	},
+	{
+		"level": 2,
+		"mean_food": 43.5,
+		"policy": "greedy",
+		"samples": 40,
+		"wins": 40
+	},
+	{
+		"level": 3,
+		"mean_food": 38.475,
+		"policy": "random_valid",
+		"samples": 40,
+		"wins": 3
+	},
+	{
+		"level": 3,
+		"mean_food": 50.825,
+		"policy": "greedy",
+		"samples": 40,
+		"wins": 32
+	}
+]
